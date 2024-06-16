@@ -129,19 +129,19 @@ span {
 }
 
 .home-content p {
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 
 .social-media a {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  width: 4rem;
-  height: 4rem;
+  width: 5rem;
+  height: 5rem;
   background: transparent;
   border: 0.2rem solid var(--main-color);
   border-radius: 50%;
-  font-size: 2rem;
+  font-size: 3rem;
   color: var(--main-color);
   margin: 3rem 1.5rem 3rem 0;
   transition: 0.5s ease;
@@ -159,7 +159,7 @@ span {
   background: var(--main-color);
   border-radius: 4rem;
   box-shadow: 0 0 1rem var(--main-color);
-  font-size: 1.6rem;
+  font-size: 2rem;
   color: var(--second-bg-color);
   letter-spacing: 0.1rem;
   font-weight: 600;
